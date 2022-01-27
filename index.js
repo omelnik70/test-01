@@ -1,5 +1,5 @@
 const _ = require('lodash');
 
-const array = [1, 3, 5, 10, 15];
+const array = [1, 1, 1, 1, 1];
 
 console.log(_.sum(array));
